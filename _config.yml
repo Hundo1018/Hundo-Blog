@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hundo-Blog
-subtitle: '大狗厭世協會'
+title: 大狗厭世協會
+subtitle: 'Hundo-Blog'
 description: '就，這樣，對。'
 keywords: 遊戲設計,遊戲開發,Unity,C#,Typescript
-author: Hundo
+author: Hundo 大狗
 language: zh-TW
 timezone: ''
 
@@ -103,6 +103,6 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/Hundo1018/Hundo-Blog # https://github.com/[你的 GitHub 帳號]/[你的 GitHub 帳號].github.io.git
+  repo: https://github.com/Hundo1018/Hundo-Blog
   branch: gh-pages # 在這邊我是使用 mster 當作主要分支
   message: 'deploy'
