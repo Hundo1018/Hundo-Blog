@@ -4,8 +4,8 @@
 
 # Site
 title: Hundo-Blog
-subtitle: '大狗的部落格'
-description: '就，大狗。'
+subtitle: '大狗厭世協會'
+description: '就，這樣，對。'
 keywords: 遊戲設計,遊戲開發,Unity,C#,Typescript
 author: Hundo
 language: zh-TW
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
